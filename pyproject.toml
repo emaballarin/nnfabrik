@@ -6,11 +6,6 @@ build-backend = "setuptools.build_meta"
 name = "nnfabrik"
 version = "0.2.1"
 description = "A generalized model fitting pipeline"
-dependencies = [
-    "sphinx",
-    "pytorch_sphinx_theme",
-    "recommonmark",
-]
 
 [[project.authors]]
 name = "Sinz Lab"
