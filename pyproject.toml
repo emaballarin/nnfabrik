@@ -7,16 +7,16 @@ name = "nnfabrik"
 version = "0.2.1"
 description = "A generalized model fitting pipeline"
 dependencies = [
-    "ax-platform"
-    "datajoint"
-    "GitPython"
-    "numpy"
-    "pandas"
-    "Pillow"
-    "scipy"
-    "torch"
-    "torchvision"
-    "tqdm"
+    "ax-platform",
+    "datajoint",
+    "GitPython",
+    "numpy",
+    "pandas",
+    "Pillow",
+    "scipy",
+    "torch",
+    "torchvision",
+    "tqdm",
     "typing"
 ]
 
