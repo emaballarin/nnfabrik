@@ -6,6 +6,19 @@ build-backend = "setuptools.build_meta"
 name = "nnfabrik"
 version = "0.2.1"
 description = "A generalized model fitting pipeline"
+dependencies = [
+    "ax-platform"
+    "datajoint"
+    "GitPython"
+    "numpy"
+    "pandas"
+    "Pillow"
+    "scipy"
+    "torch"
+    "torchvision"
+    "tqdm"
+    "typing"
+]
 
 [[project.authors]]
 name = "Sinz Lab"
